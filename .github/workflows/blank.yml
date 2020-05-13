@@ -1,0 +1,3 @@
+-name: test
+ -run: GET /repos/:owner/:repo/traffic/clones
+  
